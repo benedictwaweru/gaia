@@ -1,0 +1,7 @@
+{
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Be extremely detailed with the commit message. Include the purpose of the changes, the specific files modified, and any relevant context that would help someone understand the changes without looking at the code. Add lots of emojis to make it engaging and clear.",
+    }
+  ]
+}
