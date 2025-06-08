@@ -18,6 +18,8 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
     "paths": {
+      "@./nestlib": ["libs/nestlib/src/index.ts"],
+      "@./nglib": ["libs/nglib/src/index.ts"],
       "@gateway/*": ["./apps/gateway/src/*"]
     }
   },
